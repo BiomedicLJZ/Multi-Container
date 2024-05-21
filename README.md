@@ -55,7 +55,7 @@ For example, if you make a change to a file in the `frontend` directory, the cha
 
 ## Contributing
 
-Contributions are welcome. Please open an issue or submit a pull request if you have something to contribute.
+Contributions are welcome. Please open an issue or submit a pull request if you have something to contribute. <mark>**Please keep the code clearly to understand and well documented**<\mark>.
 
 ## License
 
